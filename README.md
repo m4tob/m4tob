@@ -25,6 +25,8 @@ I give talks and workshops at universities and in the community, on Git, databas
 
 ### Reach me
 
-[LinkedIn](https://linkedin.com/in/matob-dev) · [matob.dev](https://matob.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matob--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matob-dev)
+
+[![Website](https://img.shields.io/badge/matob.dev-1C2330?style=for-the-badge&logo=googlechrome&logoColor=white)](https://matob.dev)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tob&layout=compact&hide_border=true)](https://github.com/m4tob)
