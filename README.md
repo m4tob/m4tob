@@ -14,7 +14,7 @@ Computer Engineering at UEFS, postgraduate in Software Architecture at FIAP, and
 
 | Project | What it does |
 |---|---|
-| [resume-forge](https://github.com/m4tob/resume-forge) | Tailored, ATS-friendly resumes generated from a single Markdown knowledge base. |
+| [resume-forge](https://github.com/matob-dev/resume-forge) | Tailored, ATS-friendly resumes generated from a single Markdown knowledge base. |
 | [explain-render.matob.dev](https://explain-render.matob.dev) | MySQL and PostgreSQL `EXPLAIN` JSON rendered as a query plan diagram. |
 | [logo-generator.matob.dev](https://logo-generator.matob.dev) | Monogram logo maker. Type a name, pick a color and font, download PNG or SVG. |
 | [tools.matob.dev](https://tools.matob.dev) | A short, hand-picked directory of free online tools worth bookmarking. |
