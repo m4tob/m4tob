@@ -29,4 +29,4 @@ I give talks and workshops at universities and in the community, on Git, databas
 
 [![Website](https://img.shields.io/badge/matob.dev-1C2330?style=for-the-badge&logo=googlechrome&logoColor=white)](https://matob.dev)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tob&layout=compact&hide_border=true)](https://github.com/m4tob)
+[![Top languages](https://github-readme-stats-rho-three-13.vercel.app/api/top-langs/?username=m4tob&layout=compact&hide_border=true)](https://github.com/m4tob)
